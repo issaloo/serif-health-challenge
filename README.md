@@ -14,8 +14,9 @@
 ### Instructions - Running The Code
 
 1. [Set up Environment](#set-up-development-environment)
-2. Download and move the [input file](https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/2024-02-01_anthem_index.json.gz) to data folder in this repository (local)
-3. Run the script, whether in terminal or using your IDE
+2. Create the `data` folder at the root of the directory
+3. Download and move the [input file](https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/2024-02-01_anthem_index.json.gz) to data folder in this repository (local)
+4. Run the script, whether in terminal or using your IDE
 
 ### Write-Up
 
