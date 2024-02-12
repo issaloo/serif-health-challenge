@@ -106,4 +106,4 @@ if __name__ == "__main__":
     output_set_to_json(url_set=url_set, output_file_path=output_file_path)
     time_3 = time.time()
     print(f"Step 2: Output to File - Time(s): {time_3 - time_2}")
-    print(f"All Steps - Time(s): {time_3 - time_1}")
+    print(f"All Steps - Time(s): {time_3 - time_0}")
