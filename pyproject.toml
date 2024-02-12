@@ -10,7 +10,6 @@ requires-python = ">=3.9,<3.11"
 license = { text = "All Rights Reserved" }
 dependencies = [
     "ijson>=3.2.3",
-    "requests>=2.31.0",
 ]
 
 [project.optional-dependencies]
