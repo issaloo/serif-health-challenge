@@ -9,7 +9,7 @@ authors = [
 requires-python = ">=3.9,<3.11"
 license = { text = "All Rights Reserved" }
 dependencies = [
-    # "pandas>=1.5.3",
+    "ijson>=3.2.3",
 ]
 
 [project.optional-dependencies]
