@@ -1,10 +1,12 @@
-import ijson
-import gzip
-import shutil
-# import requests
-import re
+# import libraries
 import csv
+import re
+import shutil
 import time
+
+import gzip
+import ijson
+# import requests
 
 # def download_index_file(url: str, output_prefix: str) -> str:
 #     """Download index file (gz) into data folder.
