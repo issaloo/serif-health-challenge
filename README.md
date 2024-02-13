@@ -68,6 +68,9 @@ Performance
 - Writing in Functions vs Single File
   - Creating the steps with functions for reusability and clear steps
   - However, this takes more time to add
+- Multiprocessing vs Not for Getting URLs
+  - Attempted but ended up not doing so for the sake of time. You could use the multiprocessing package and the task would be going through an object
+  - However, this is possible to do given that adding URLs to a set can be done async
 
 #### Answering the Hints & Pointers
 
